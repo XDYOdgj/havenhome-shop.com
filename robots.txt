@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://havenhome-shop.com/sitemap.xml
